@@ -8,13 +8,17 @@ namespace DebugDemo
 {
         class Program
         {
+        /// <summary>
+        /// To test and debug a c# program
+        /// </summary>
+        /// <param name="args"></param>
             static void Main(string[] args)
             {
 
                 Console.WriteLine("Debug demo");
-
+            
                 // Variabel
-                int x = 10;
+                int x = 20;
                 Console.WriteLine($"x = {x}");
                 x++;
                 Console.WriteLine($"x = {x}");
