@@ -14,6 +14,8 @@ namespace Array_opgave
             var rest = BeregnOgSorterArray(test);
             Console.WriteLine(rest);
             Console.ReadLine();
+
+            metode1(int[] test);
         }
         public static ArrayResultat BeregnOgSorterArray(int[] a)
         {
