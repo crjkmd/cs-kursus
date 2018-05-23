@@ -53,18 +53,25 @@ namespace Variables
             }
             Console.WriteLine("Press enter");
             Console.ReadLine();
-        }
-        public struct Person
-        {
-            public int id;
-            public string navn;
-        }
 
-        public struct FilTyper
-        {
-            pdf,
-            txt,
-            csv
+            Person p;
+            p.id = 1;
+            p.navn = "Mikkel";
+            Console.WriteLine(p.navn);
+            Console.ReadLine();
         }
+        
+    }
+    public struct Person
+    {
+        public int id;
+        public string navn;
+    }
+
+    public enum FilTyper
+    {
+        pdf,
+        txt,
+        csv
     }
 }
