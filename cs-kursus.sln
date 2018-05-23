@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkrivTilFil", "SkrivTilFil\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatoOpgave", "DatoOpgave\DatoOpgave.csproj", "{471D38C8-6CA6-423D-B29F-6C3534FB1DE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref-Opgave", "Ref-Opgave\Ref-Opgave.csproj", "{81F499D9-E3C2-431E-84A5-2D051F89C46D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{471D38C8-6CA6-423D-B29F-6C3534FB1DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{471D38C8-6CA6-423D-B29F-6C3534FB1DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{471D38C8-6CA6-423D-B29F-6C3534FB1DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F499D9-E3C2-431E-84A5-2D051F89C46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F499D9-E3C2-431E-84A5-2D051F89C46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F499D9-E3C2-431E-84A5-2D051F89C46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F499D9-E3C2-431E-84A5-2D051F89C46D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
