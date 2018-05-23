@@ -12,8 +12,24 @@ namespace Variables
     {
         static void Main(string[] args)
         {
+            int ba = 10;
+            ba++;
+            ba--;
+            ba += 20;
+            Console.WriteLine(ba);
+
+            double kommatal = 12.5;
+            kommatal++;
+            Console.WriteLine(kommatal);
+
+            FilTyper ft = FilTyper.csv;
+            Console.WriteLine(ft);
+            Console.WriteLine((int)ft);
+
             DateTime da = DateTime.Now;
             Console.WriteLine(da.ToString("dd-MM-yyyy"));
+            Console.WriteLine(da.ToString("d-M-y"));
+            Console.WriteLine(da.ToLongDateString());
 
             // Timespan
             DateTime d1 = DateTime.Now;
@@ -23,10 +39,10 @@ namespace Variables
             Console.WriteLine(ts.TotalDays.ToString());
 
             // PC Info
-            string Key = "Win32_Processor";
-            System.Management.Instrumentation.
+            //string Key = "Win32_Processor";
+            //System.Management.Instrumentation.
             //System.Management.ManagementObjectSearcher searcher = new ManagementObjectSearcher("select * from " + Key);
-            Console.WriteLine(searcher.Get());
+            //Console.WriteLine(searcher.Get());
 
             // Variables
 
@@ -37,6 +53,18 @@ namespace Variables
             }
             Console.WriteLine("Press enter");
             Console.ReadLine();
+        }
+        public struct Person
+        {
+            public int id;
+            public string navn;
+        }
+
+        public struct FilTyper
+        {
+            pdf,
+            txt,
+            csv
         }
     }
 }
