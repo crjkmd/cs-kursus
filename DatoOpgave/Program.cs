@@ -19,7 +19,7 @@ namespace DatoOpgave
             d1 = d1.AddMonths(-1);
             Console.WriteLine(d1);
             Console.ReadLine();
-
+            
             DateTime d2 = new DateTime(2018, 1, 1);
             DateTime d3 = new DateTime(2018, 5, 1);
             TimeSpan t1 = d3.Subtract(d2);
