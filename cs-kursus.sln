@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref-Opgave", "Ref-Opgave\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strenge-leg", "Strenge-leg\Strenge-leg.csproj", "{575D35DC-2DD8-4391-A37B-A506D4F13EC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lav-10-tabel", "Lav-10-tabel\Lav-10-tabel.csproj", "{044D57AB-337D-4443-BE0B-085069F52787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverLoad-af-funktion", "OverLoad-af-funktion\OverLoad-af-funktion.csproj", "{25F4AC4A-A7CD-4B82-96A5-1D2DAFC00B3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{575D35DC-2DD8-4391-A37B-A506D4F13EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{575D35DC-2DD8-4391-A37B-A506D4F13EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{575D35DC-2DD8-4391-A37B-A506D4F13EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044D57AB-337D-4443-BE0B-085069F52787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044D57AB-337D-4443-BE0B-085069F52787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044D57AB-337D-4443-BE0B-085069F52787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044D57AB-337D-4443-BE0B-085069F52787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25F4AC4A-A7CD-4B82-96A5-1D2DAFC00B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F4AC4A-A7CD-4B82-96A5-1D2DAFC00B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F4AC4A-A7CD-4B82-96A5-1D2DAFC00B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F4AC4A-A7CD-4B82-96A5-1D2DAFC00B3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

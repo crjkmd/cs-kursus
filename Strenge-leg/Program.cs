@@ -44,6 +44,7 @@ namespace Strenge_leg
             Console.WriteLine(minbuilder);
             Console.ReadLine();
 
+            // switch og case - for loop, do while ... break = hop ud, continue = forsæt
 
         }
     }
