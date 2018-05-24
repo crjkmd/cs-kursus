@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverLoad-af-funktion", "Ove
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array-opgave", "Array-opgave\Array-opgave.csproj", "{375B3C74-7737-46F8-8F27-02239EB4E548}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatePwd", "CreatePwd\CreatePwd.csproj", "{A7913F00-7D07-4492-A270-31713461B92A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{375B3C74-7737-46F8-8F27-02239EB4E548}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{375B3C74-7737-46F8-8F27-02239EB4E548}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{375B3C74-7737-46F8-8F27-02239EB4E548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7913F00-7D07-4492-A270-31713461B92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7913F00-7D07-4492-A270-31713461B92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7913F00-7D07-4492-A270-31713461B92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7913F00-7D07-4492-A270-31713461B92A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
