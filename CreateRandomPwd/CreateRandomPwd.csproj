@@ -4,14 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BC35FFC5-F462-4754-9B83-65D02D9A194C}</ProjectGuid>
+    <ProjectGuid>{9E33A6E7-018A-46CE-9000-2E582596C3A7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DebugDemo</RootNamespace>
-    <AssemblyName>DebugDemo</AssemblyName>
+    <RootNamespace>CreateRandomPwd</RootNamespace>
+    <AssemblyName>CreateRandomPwd</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

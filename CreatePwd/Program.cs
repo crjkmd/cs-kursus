@@ -12,6 +12,8 @@ namespace CreatePwd
         {
             string alphabet = "abcdefghijklmnopqrstuvwxyz`~!#$%^&*()-+={}[]\/<>,.?':";
             int pw_len = 15;
+            int pwlist[];
+
 
         }
     }

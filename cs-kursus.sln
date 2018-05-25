@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array-opgave", "Array-opgav
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatePwd", "CreatePwd\CreatePwd.csproj", "{A7913F00-7D07-4492-A270-31713461B92A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateRandomPwd", "CreateRandomPwd\CreateRandomPwd.csproj", "{9E33A6E7-018A-46CE-9000-2E582596C3A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{A7913F00-7D07-4492-A270-31713461B92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7913F00-7D07-4492-A270-31713461B92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7913F00-7D07-4492-A270-31713461B92A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E33A6E7-018A-46CE-9000-2E582596C3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E33A6E7-018A-46CE-9000-2E582596C3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E33A6E7-018A-46CE-9000-2E582596C3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E33A6E7-018A-46CE-9000-2E582596C3A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
