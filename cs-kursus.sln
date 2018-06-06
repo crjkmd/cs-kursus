@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatePwd", "CreatePwd\Crea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateRandomPwd", "CreateRandomPwd\CreateRandomPwd.csproj", "{9E33A6E7-018A-46CE-9000-2E582596C3A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassStruct", "ClassStruct\ClassStruct.csproj", "{173C7AB9-52E9-4F29-9D1C-6731F7372551}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{9E33A6E7-018A-46CE-9000-2E582596C3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E33A6E7-018A-46CE-9000-2E582596C3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E33A6E7-018A-46CE-9000-2E582596C3A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173C7AB9-52E9-4F29-9D1C-6731F7372551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173C7AB9-52E9-4F29-9D1C-6731F7372551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173C7AB9-52E9-4F29-9D1C-6731F7372551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173C7AB9-52E9-4F29-9D1C-6731F7372551}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
