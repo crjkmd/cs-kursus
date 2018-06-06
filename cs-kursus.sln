@@ -27,6 +27,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateRandomPwd", "CreateRa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassStruct", "ClassStruct\ClassStruct.csproj", "{173C7AB9-52E9-4F29-9D1C-6731F7372551}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{480645B7-3E0C-4A8D-98FF-DBA9640DCBCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terning", "Terning\Terning.csproj", "{C7B93132-0FF8-42E7-8ADA-A9EC5877EBD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vare", "Vare\Vare.csproj", "{7A777A65-205A-41BA-A278-FAB03695E56C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trekant", "Trekant\Trekant.csproj", "{3BE1A4DF-2B4B-4EB4-8C57-6356D5A848DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +89,22 @@ Global
 		{173C7AB9-52E9-4F29-9D1C-6731F7372551}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{173C7AB9-52E9-4F29-9D1C-6731F7372551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{173C7AB9-52E9-4F29-9D1C-6731F7372551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{480645B7-3E0C-4A8D-98FF-DBA9640DCBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480645B7-3E0C-4A8D-98FF-DBA9640DCBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480645B7-3E0C-4A8D-98FF-DBA9640DCBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480645B7-3E0C-4A8D-98FF-DBA9640DCBCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B93132-0FF8-42E7-8ADA-A9EC5877EBD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B93132-0FF8-42E7-8ADA-A9EC5877EBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B93132-0FF8-42E7-8ADA-A9EC5877EBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B93132-0FF8-42E7-8ADA-A9EC5877EBD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A777A65-205A-41BA-A278-FAB03695E56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A777A65-205A-41BA-A278-FAB03695E56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A777A65-205A-41BA-A278-FAB03695E56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A777A65-205A-41BA-A278-FAB03695E56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE1A4DF-2B4B-4EB4-8C57-6356D5A848DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE1A4DF-2B4B-4EB4-8C57-6356D5A848DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE1A4DF-2B4B-4EB4-8C57-6356D5A848DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE1A4DF-2B4B-4EB4-8C57-6356D5A848DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

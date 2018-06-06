@@ -34,6 +34,7 @@ namespace ClassStruct
     public string navn;
 }
 */
+
 class Person
 {
     public string navn;
