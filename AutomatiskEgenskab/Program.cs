@@ -4,15 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Trekant
+namespace AutomatiskEgenskab
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Trekant t1 = new Trekant(5,5);
-            /* t1.Grundlinje = 10;  */
-            Console.WriteLine(t1.Areal);
+            Test p = new Test();
+            p.Fornavn = "Christian";
+            p.Efternavn = "Je";
+            Console.WriteLine(p.Fuldtnavn());
             Console.ReadLine();
         }
     }
