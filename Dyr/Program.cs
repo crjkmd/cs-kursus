@@ -10,8 +10,8 @@ namespace Dyr
     {
         static void Main(string[] args)
         {
-            Dyr[] dyr = new Dyr[34];
-            for (int i = 0; i < 34; i++)
+            Dyr[] dyr = new Dyr[35];
+            for (int i = 0; i < 35; i++)
             {
                 dyr[i] = Dyr.TilfældigtDyr();
             }
