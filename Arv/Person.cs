@@ -18,7 +18,8 @@ namespace Arv
         
         public virtual void Skriv()
         {
-            Console.WriteLine($"{Fornavn}{Efternavn}");
+            Console.WriteLine($"{Fornavn} {Efternavn}");
         }
     }
 }
+

@@ -10,22 +10,24 @@ namespace Arv
     {
         static void Main(string[] args)
         {
-            Person p = new Person() { Efternavn = "x", Fornavn = "x" };
-            Elev e = new Elev() { Efternavn = "z", Fornavn = "z" ,KlasseLokale = "Z"};
-            Instruktør i = new Instruktør() { Efternavn = "y", Fornavn = "y", NøgleId = 1 };
+            Person p = new Person() { Efternavn = "Jepsen", Fornavn = "Christian" };
+            Elev e = new Elev() { Efternavn = "Sørensen", Fornavn = "Anders" ,KlasseLokale = "Øst 1.07"};
+            Instruktør i = new Instruktør() { Efternavn = "Cronberg", Fornavn = "Michell", NøgleId = 1 };
 
             p.Skriv();
             e.Skriv();
             i.Skriv();
 
-        /*    Person[] lst = new Person();
+            Console.WriteLine("\n");
+
+            Person[] lst = new Person[3];
             lst[0] = p;
             lst[1] = e;
             lst[2] = i;
 
             foreach (var item in lst)
                 item.Skriv();
-                */
+
             //Console.WriteLine(p.FuldtNavn()) ;
             //Console.WriteLine(e.FuldtNavn());
             //Console.WriteLine(i.FuldtNavn());
