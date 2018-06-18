@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NLog;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -28,6 +29,7 @@ namespace LogDemo
                 }
             catch (Exception ex)
             {
+                // Logger.Debug("Fejl: ", exception: ex);
                 // mangler log
             }
         }
