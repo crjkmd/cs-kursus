@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3EF10F52-52BE-44D2-9819-1D18B1D9495B}</ProjectGuid>
+    <ProjectGuid>{F6B8ED5B-DC3B-484B-B39A-0FB823EEDB5A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BrugAfUsing</RootNamespace>
-    <AssemblyName>BrugAfUsing</AssemblyName>
+    <RootNamespace>BrugCollection</RootNamespace>
+    <AssemblyName>BrugCollection</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
