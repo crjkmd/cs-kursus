@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgenException", "EgenExcept
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogDemo", "LogDemo\LogDemo.csproj", "{8688A1A9-DCDD-4568-8C94-38D61A54F123}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrugInterface", "BrugInterface\BrugInterface.csproj", "{17C6EC74-347E-47A1-BF03-167A294DD9C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSort", "InterfaceSort\InterfaceSort.csproj", "{3E87E300-7118-4DED-A2CB-FFD429E1832C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{8688A1A9-DCDD-4568-8C94-38D61A54F123}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8688A1A9-DCDD-4568-8C94-38D61A54F123}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8688A1A9-DCDD-4568-8C94-38D61A54F123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C6EC74-347E-47A1-BF03-167A294DD9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C6EC74-347E-47A1-BF03-167A294DD9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C6EC74-347E-47A1-BF03-167A294DD9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C6EC74-347E-47A1-BF03-167A294DD9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E87E300-7118-4DED-A2CB-FFD429E1832C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E87E300-7118-4DED-A2CB-FFD429E1832C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E87E300-7118-4DED-A2CB-FFD429E1832C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E87E300-7118-4DED-A2CB-FFD429E1832C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
