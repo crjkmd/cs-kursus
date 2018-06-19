@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrugAfUsing", "BrugAfUsing\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrugCollection", "BrugCollection\BrugCollection.csproj", "{F6B8ED5B-DC3B-484B-B39A-0FB823EEDB5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BunkeKort", "BunkeKort\BunkeKort.csproj", "{BF26C357-3549-4D94-B33A-7F47CE03835C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{F6B8ED5B-DC3B-484B-B39A-0FB823EEDB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6B8ED5B-DC3B-484B-B39A-0FB823EEDB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6B8ED5B-DC3B-484B-B39A-0FB823EEDB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF26C357-3549-4D94-B33A-7F47CE03835C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF26C357-3549-4D94-B33A-7F47CE03835C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF26C357-3549-4D94-B33A-7F47CE03835C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF26C357-3549-4D94-B33A-7F47CE03835C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
