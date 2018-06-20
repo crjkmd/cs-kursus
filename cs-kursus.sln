@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrugCollection", "BrugColle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BunkeKort", "BunkeKort\BunkeKort.csproj", "{BF26C357-3549-4D94-B33A-7F47CE03835C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap-program", "Swap-program\Swap-program.csproj", "{382C995E-4C20-4C43-BE06-6A9428568D97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrugDelegates", "BrugDelegates\BrugDelegates.csproj", "{D0A7D9C2-B4DA-4EF1-84AD-416861C8FF4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +193,14 @@ Global
 		{BF26C357-3549-4D94-B33A-7F47CE03835C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF26C357-3549-4D94-B33A-7F47CE03835C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF26C357-3549-4D94-B33A-7F47CE03835C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{382C995E-4C20-4C43-BE06-6A9428568D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382C995E-4C20-4C43-BE06-6A9428568D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382C995E-4C20-4C43-BE06-6A9428568D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382C995E-4C20-4C43-BE06-6A9428568D97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A7D9C2-B4DA-4EF1-84AD-416861C8FF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A7D9C2-B4DA-4EF1-84AD-416861C8FF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A7D9C2-B4DA-4EF1-84AD-416861C8FF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A7D9C2-B4DA-4EF1-84AD-416861C8FF4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
